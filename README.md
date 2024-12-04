@@ -44,6 +44,3 @@ Feel free to reach out for collaborations, projects, or just to say hi:
 - 🌐 LinkedIn: [Somesh komarellu](https://www.linkedin.com/in/somesh-komarellu-9a1889282/)
 - 🐙 GitHub: [Somesh-komarellu](https://github.com/Somesh-komarellu)
 
----
-
-Let me know if you'd like to tweak this further! 🚀
